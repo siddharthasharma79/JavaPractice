@@ -11,6 +11,7 @@ public class ArrayPractice {
 		
 		Scanner	sc = new Scanner(System.in);
 		int in = sc.nextInt();
+		System.out.println("in value is : "+ in );
 
 	}
 
